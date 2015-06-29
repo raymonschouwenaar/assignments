@@ -23,18 +23,16 @@ After completing this assignment, you should be able to effectively use:
 
 * HTML (and W3C validation)
 * CSS
-* Codepen
-* Github issues
 
 ### Details
 
 #### Deliverables
 
-* Links to your Codepen(s)
+* A Zip file of your project folder, uploaded on slack into a private message to me. (Will)
 
 ### Normal Mode
 
-Create a Codepen that contains at least **10** distinct HTML tags, and **10** different CSS properties.
+Create an index.html file that contains at least **10** distinct HTML tags, and **10** different CSS properties.
 
 Your HTML should be valid, semantic, and go at least four levels deep.
 
