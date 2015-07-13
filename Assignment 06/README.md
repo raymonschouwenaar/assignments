@@ -12,5 +12,3 @@ Download the included `functions.js` you will find a list of questions. Each que
 
 * A repo containing at least:
   * `function.js`
-
-* A link to the deployed project on gh-pages
