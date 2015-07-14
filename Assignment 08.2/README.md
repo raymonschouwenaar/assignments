@@ -57,6 +57,7 @@ The information from the Github API that you will display includes information f
 
 
 ## Additional Resources
+- https://octicons.github.com/
 - [Understanding the JS event loop](http://latentflip.com/loupe)
 - [Postman Chrome
   app](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
