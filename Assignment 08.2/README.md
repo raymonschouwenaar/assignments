@@ -29,7 +29,7 @@ After completing this assignment, you should:
 
 Build a github profile app that prints out some info from the Github API and your repos. __For the design, you should recreate the Github Repos Tab to the best of your ability__.
 
-> Github tab page: https://github.com/jacobthemyth?tab=repositories
+> Github tab page: https://github.com/egdelwonk?tab=repositories
 
 The information from the Github API that you will display includes information from your github user account and repositories.
 
