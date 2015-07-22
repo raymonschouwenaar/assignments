@@ -39,6 +39,21 @@ The blog post should link to gists for each of your _own_ code examples and an e
 ### Requirements
 
 * No warnings or errors in your code examples
+* Each code example should have a comment of the expected return value.
+  For example:
+  ```javascript
+  var x = [1, 2, 3, 4, 5];
+  var newX = _.shuffle(x);
+  // newX is [2, 3, 6, 3, 1]
+  ```
+
+  vs
+
+  ```javascript
+  var x = [1, 2, 3, 4, 5];
+  var newX = _.shuffle(x);
+  console.log(newX);
+  ```
 
 
 ## Normal Mode
