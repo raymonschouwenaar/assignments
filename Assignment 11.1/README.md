@@ -33,7 +33,6 @@ After completing this assignment, you be able to effectively use
 
 * A repo containing at least:
   * `main.js`
-  * `etsy-items.js`
   * `index.html`
   *  `scss/`
 
