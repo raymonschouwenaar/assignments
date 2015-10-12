@@ -1,7 +1,15 @@
 # Monday, Oct 12th
 
+* Write a blog post about your experience at The Iron Yard so far.
+  A few things you could illustrate:
+    - What you've learned
+    - What you have struggled with and have overcome
+    - What you look forward to in the coming weeks
+    - How you think this course will change your life
+* Build a responsive form using the details below
 
-## Description
+
+## Responsive Form
 
 This assignment serves to reinforce HTML forms and relevant tags, form attributes, CSS layouts and techniques, as well as transitions.
 
