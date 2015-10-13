@@ -40,9 +40,9 @@ Recreate the following layout in HTML and CSS:
 
 ![](./tshirts.gif)
 
-## Notes
+## Hard Mode
 
-Notes go here...
+Implement the flipping action as seen above.
 
 ## Additional Resources
 
