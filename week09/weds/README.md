@@ -1,13 +1,13 @@
 # Bring The Band
 
 ## Description
-A local music venue (The ) has asked you to build a promotional app: Bring The Band! Bring the band will allow users to vote for musicians they want to see at the venue. The venue hopes to gain a following, and boost their patron engagement by tracking popular bands, and trends in their market share.
+A local music venue has asked you to build a promotional app: Bring The Band! Bring the band will allow users to vote for musicians they want to see at the venue. The venue hopes to gain a following, and boost their patron engagement by tracking popular bands, and trends in their market share.
 
 ## Objectives
 
 ### Performance Objectives
 
-After completing this assignment, you be able to...
+After completing this assignment, you should be able to...
 
 * use Parse as a back end to store user and other data
 * decipher and consume third-party apis
