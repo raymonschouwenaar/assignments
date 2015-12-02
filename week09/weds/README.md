@@ -24,19 +24,19 @@ You will need to use the [Spotify api](https://developer.spotify.com/web-api/end
 
 ## Explorer Mode
 
-[] A user should be able to log into the website.
-[] A user should be able to search for bands.
-[] A logged in user should be able to vote for bands they want to see come to their area.
-[] A logged in user should be able to view a list of the bands they have voted for.
+* A user should be able to log into the website.
+* A user should be able to search for bands.
+* A logged in user should be able to vote for bands they want to see come to their area.
+* A logged in user should be able to view a list of the bands they have voted for.
 
 ## Adventurer Mode
 
-[] All of Explorer mode.
-[] A user should be able to view all bands that have been voted for.
-[] A user should be able to see to total number of votes a band has received from all users.
+* All of Explorer mode.
+* A user should be able to view all bands that have been voted for.
+* A user should be able to see to total number of votes a band has received from all users.
 
 ## Epic Mode
 
-[] All of Adventurer mode.
-[] A logged in user should be able to view other user's profiles.
-[] A logged in user should be able to view a list of the bands the other user has voted for.
+* All of Adventurer mode.
+* A logged in user should be able to view other user's profiles.
+* A logged in user should be able to view a list of the bands the other user has voted for.
